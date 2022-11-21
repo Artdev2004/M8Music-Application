@@ -1,0 +1,5 @@
+package br.com.M8Music.controllers;
+
+public class UserController {
+
+}

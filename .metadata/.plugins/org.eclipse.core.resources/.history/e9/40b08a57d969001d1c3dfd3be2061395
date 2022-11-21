@@ -1,0 +1,11 @@
+package br.com.M8Music.controllers;
+
+public class UserController {
+
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

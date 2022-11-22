@@ -1,0 +1,8 @@
+package br.com.M8Music.repositorys;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class CustomerRepository {
+	
+}

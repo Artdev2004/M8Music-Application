@@ -1,0 +1,5 @@
+package br.com.M8Music.models;
+
+public class CustomerModel {
+
+}
